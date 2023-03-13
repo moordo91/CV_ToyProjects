@@ -6,4 +6,5 @@ If you input the name of image and the limitaion of the size, this program autom
 
 You don't need to calculate profit size.
 
-[![Video Label](http://img.youtube.com/vi/b16KrikmPUE'/0.jpg)](https://youtu.be/'b16KrikmPUE')
+[Simulation]
+https://youtu.be/b16KrikmPUE
