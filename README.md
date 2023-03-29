@@ -16,6 +16,8 @@ Simple codes to transfer a photo to cartoon
   
   
   
+## Compare two codes.  
+  
 `Cartoonization1.py` reads an image and converts it to grayscale. It then applies a median blur filter to reduce noise, followed by an adaptive threshold to obtain edges in the image. The edges are then combined with a filtered color image using the bitwise and operation to create the cartoonized version.
 
 `Cartoonization2.py` also reads an image and converts it to grayscale, but it uses a bilateral filter instead of a median blur filter to smooth the image while preserving edges. It then applies an adaptive threshold to obtain edges, which are further processed with erosion and dilation operations. Finally, the stylization function is used to create a cartoonized version of the image, which is displayed using Matplotlib.
