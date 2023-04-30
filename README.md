@@ -1,4 +1,4 @@
-# pose_estimation_chessboard
+# pose_estimation_no2
 This is the repository for simple pose estimation of chessboard.  
   
 ### Value from the camera calibration
