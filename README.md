@@ -1,5 +1,6 @@
 # pose_estimation_no2
-This is the repository for simple pose estimation of chessboard.  
+This is the repository for simple pose estimation on chessboard.  
+It creates the number 2.  
   
 ### Value from the camera calibration
 ```python
