@@ -6,5 +6,5 @@ If you input the name of image and the limitaion of the size, this program autom
 
 You don't need to calculate profit size.
 
-You can see the demonstration that the program resizes a 2 MB image file to 1 MB.   
+You can see a demonstration that the program resizes a 2 MB image file to 1 MB.   
 [[Link]](https://youtu.be/b16KrikmPUE)
